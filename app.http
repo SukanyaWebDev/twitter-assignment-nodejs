@@ -35,7 +35,10 @@ Authorization: Bearer <JWT_Token>
 GET http://localhost:3000/user/followers/
 Authorization: Bearer <JWT_Token>
 
+
+
 ### API 6: Get a specific tweet
+
 
 GET http://localhost:3000/tweets/:tweetId/
 Authorization: Bearer <JWT_Token>
